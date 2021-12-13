@@ -1,1 +1,1 @@
-# GitHub Repository to maintain LeetCode programs
+## GitHub Repository to maintain LeetCode programs
